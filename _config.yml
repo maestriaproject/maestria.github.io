@@ -8,7 +8,7 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: MAESTRIA project # add your name
-author-img: david-freeman.jpg # add your photo
+author-img: logo_maestria.png # add your photo
 about-author: We develop state-of-the-art methods for the multi-modal analysis of the large amount of Earth Observation images. Of course, source code and products will be made freely available. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
