@@ -12,7 +12,7 @@ author-img: logo_maestria.png # add your photo
 about-author: We develop state-of-the-art methods for the multi-modal analysis of the large amount of Earth Observation images. Of course, source code and products will be made freely available. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
-social-github:  # add your Github handle
+social-github: iota2-project/iota2 # add your Github handle
 social-linkedin: # add your Linkedin handle
 social-email: # add your Email address
 
