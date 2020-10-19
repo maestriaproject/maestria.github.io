@@ -27,7 +27,7 @@ The underlying mathematical process for automatic land-cover generation using su
 * <i>How to learn with noisy big data?</i> Indeed, the learning method has to cope with noisy information in the image data (clouds, shadows, low resolution, speckle) as well as in the training and ground truth data (human errors, imperfect class delineation or cover changes since the survey). Furthermore, the size of the reference data is usually small for some particular classes, resulting in a reference data badly balanced in terms of number of samples per classes.
 * <i>How to derive meaningful products, semantically consistent at many spatial scales?</i>
 
-![Final aim of MAESTRIA](/assets/img/final.png){:class="img-responsive"}
+![Final aim of MAESTRIA]({{site.baseurl}}/assets/img/final.png){:class="img-responsive"}
 
 ## Objectives
 The MAESTRIA project aims to develop automatic methods for the analysis of the large amount of available heterogeneous EO satellite images. It therefore exhibits two main strategic objectives:
