@@ -7,7 +7,7 @@ img: roanne.jpg # Add image post (optional)
 tags: [Datasets, Software] # add tag
 ---
 
-Source codes and datasets made freely available to researchers and end-users.
+Both methodological contributions and land-cover features will be open-source and freely available. They will simplify the use of Earth Observation data for scientists and industrialists. Furthermore, they will provide a solid basis for the definition of innovative value added products from suppliers of satellite services.
 
 ## Philosophy
 
@@ -17,7 +17,7 @@ The outputs are three-fold:
 <ol>
   <li> <b>Baseline products</b>, i.e., land-cover maps available at various spatial and temporal resolutions, that will be evaluated by a pool of end-users, for their own applications;</li>
   <li> <b>Prototypes</b>, dedicated to specific applications and tailored jointly with end-users. The first outputs aim to assess the general relevance of automatic multi-modal EO data processing and foster their adoption for a large variety of needs. The second ones target to derive a set of services, extending the impact of the proposed methods. Two kinds of end-users will be involved, focusing on deriving mapping/statistical knowledge (e.g., authoritative bodies for public policy monitoring) or integrating extracted information into environmental models.</li>
-<li> <b>Source code will be made available</b> on a software for version control under a copyleft license, following the strategy proposed for i2. One (public/private bodies) will have the possibility to deeper specialize the proposed methods for a given need (spatial scale + set of classes), probably with more significant thematic prior knowledge.</li>
+<li> <b>Source code will be made available</b> on a software for version control under a copyleft license, following the strategy proposed for iota2. One (public/private bodies) will have the possibility to deeper specialize the proposed methods for a given need (spatial scale + set of classes), probably with more significant thematic prior knowledge.</li>
 </ol>
 
 ## Datasets
@@ -29,3 +29,4 @@ No dataset has been specifically released so far but:
  </ul>
 
 ## Source code
+Our project will rely upon iota2 framework and targets to extend its capacities. The iota2 project can be reached <a href="http://framagit.org/iota2-project/iota2" target="_blank">here</a>.
