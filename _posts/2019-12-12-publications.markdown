@@ -19,7 +19,7 @@ Here we provide the list of documents prepared during the project (scientific pa
 ### Conference papers
 
 <ul>
-  <li> </li>
+  <li> Mallet, C. and Le Bris, A.: Current challenges in operational very high resolution land-cover mapping. Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLIII-B2-2020, 703–710, https://doi.org/10.5194/isprs-archives-XLIII-B2-2020-703-2020, 2020 </li>
   </ul>
 
 ## Reports
