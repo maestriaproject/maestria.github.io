@@ -30,5 +30,6 @@ Here we provide the list of documents prepared during the project (scientific pa
 
 ## Talks
 <ul>
-  <li>Fauvel, M., Inglada, J., Le Bris, A. and Mallet, C.: <i>International Workshop on Large Scale Land-Cover Mapping from Remote Sensing</i>. <a href="https://github.com/maestriaproject/documents/blob/main/ANR_MAESTRIA_CMallet_23112018.pdf" target="_blank">slides</a> -<a href="https://lslc.sciencesconf.org/" target="_blank">website</a>  December 2019. </li>
+  <li>Fauvel, M., Inglada, J., Le Bris, A. and Mallet, C.: <i>International Workshop on Large Scale Land-Cover Mapping from Remote Sensing</i>. <a href="https://github.com/maestriaproject/documents/blob/main/SlidesWorkshopMaestria.pdf" target="_blank">slides</a> - <a href="https://lslc.sciencesconf.org/" target="_blank">website</a>  December 2019. </li>
+  <li>Fauvel, M., Inglada, J., Le Bris, A. and Mallet, C.: <i>Introduction to the MAESTRIA project</i>. ANR CE23 meeting. <a href="https://github.com/maestriaproject/documents/blob/main/ANR_MAESTRIA_CMallet_23112018.pdf" target="_blank">slides</a> November 2018. </li>
   </ul>
