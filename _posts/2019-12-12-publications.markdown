@@ -25,7 +25,7 @@ Here we provide the list of documents prepared during the project (scientific pa
 ## Reports
 
 <ul>
-  <li> </li>
+  <li> <i>No report so far</i>.</li>
   </ul>
 
 ## Talks
