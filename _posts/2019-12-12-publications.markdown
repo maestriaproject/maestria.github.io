@@ -12,11 +12,23 @@ Here we provide the list of documents prepared during the project (scientific pa
 
 ### Journal papers
 
-Todo
+<ul>
+  <li> </li>
+  </ul>
 
 ### Conference papers
 
+<ul>
+  <li> </li>
+  </ul>
 
 ## Reports
 
-Todo
+<ul>
+  <li> </li>
+  </ul>
+
+## Talks
+<ul>
+  <li> </li>
+  </ul>
