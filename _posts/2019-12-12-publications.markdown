@@ -6,7 +6,7 @@ description: Where you can find all papers released by the project. # Add post d
 img: paper.jpg # Add image post (optional)
 tags: [papers, journals, conferences, reports] # add tag
 ---
-Here we provide the list of documents prepared during the project.
+Here we provide the list of documents prepared during the project (scientific papers and technical reports).
 
 ## Scientific papers
 
