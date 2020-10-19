@@ -2,8 +2,8 @@
 layout: post
 title: Resources
 date: 2020-10-11 00:00:00 +0300
-description: . # Add post description (optional)
-img: software.jpg # Add image post (optional)
+description: Roanne land-cover map. # Add post description (optional)
+img: roanne.jpg # Add image post (optional)
 tags: [Productivity, Software] # add tag
 ---
 
