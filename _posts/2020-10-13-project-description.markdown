@@ -8,7 +8,7 @@ fig-caption: How to turn EO images to land-cover maps# Add figcaption (optional)
 tags: [Description, Objectives, WP]
 ---
 The MAESTRIA project (Multi-modAl Earth obServaTion Image Analysis) aims to solve the methodological challenges related to the fully automatic analysis of the massive amount of images acquired by Earth Observation (EO) platforms.
-It is funded by the <b>French National Research Agency</b> (ANR-18-CE23-0023). <br>
+It is funded by the <b>French National Research Agency</b> (ANR-18-CE23-0023). <br><br>
 ![Logo LaSTIG]({{site.baseurl}}/assets/img/logo_anr.png){:height="10%" width="10%" textalign="center"}
 
 ## Context
