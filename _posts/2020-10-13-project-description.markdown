@@ -22,7 +22,7 @@ called <i>classes</i>. The number, types, and definitions of these classes (nome
 and the geographical scale.
 Land-cover and land-use description of the Earth surface and their changes over time are the core information layers for a large variety of interdisciplinary scientific and environmental studies. Accurate and up-to-date maps over large areas are mandatory baseline datasets and became, in the last decades, an irreplaceable observation feature. A large number of environmental policies, in particular in the European Union, are driven by such knowledge: strategic areas of intervention and challenges related to climate change impacts, the conservation of natural resources, reduction of risks and threats, sustainability of urban and rural development, etc.
 
-![Land-cover mapping]({{site.baseurl}}/assets/img/overview_LCDB_web.jpg){:height="85%" width="85%" textalign="center"}<br>
+![Land-cover mapping]({{site.baseurl}}/assets/img/overview_LCDB_web.jpg){:height="85%" width="85%" textalign="center"}<br><br>
 
 ## Challenges
 The underlying mathematical process for automatic land-cover generation using such large volume of multi-modal EO data is <b>supervised classification in high dimensional space</b>. Given the large volume of multi-modal data and the above-mentioned requirements, novel critical challenges need to be addressed:
