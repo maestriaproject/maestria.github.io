@@ -29,4 +29,4 @@ No dataset has been specifically released so far but:
  </ul>
 
 ## Source code
-Our project will rely upon iota2 framework and targets to extend its capacities. The iota2 project can be reached <a href="http://framagit.org/iota2-project/iota2" target="_blank">here</a>.
+Our project will rely upon iota2 framework and targets to extend its capacities. The iota2 project can be reached <a href="http://framagit.org/iota2-project/iota2" target="_blank">here</a> ![Logo iota2]({{site.baseurl}}/assets/img/iota2-logo.png){:height="10%" width="10%" textalign="center"}.
