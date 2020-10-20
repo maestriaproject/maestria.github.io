@@ -31,7 +31,7 @@ The underlying mathematical process for automatic land-cover generation using su
 * <i>How to derive meaningful products, semantically consistent at many spatial scales?</i>
 
 ![Final aim of MAESTRIA]({{site.baseurl}}/assets/img/final.png){:height="70%" width="70%" textalign="center"}<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Current status of land-cover databases &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Multiple outputs targeted for MAESTRIA
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Current status of land-cover databases &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Multiple outputs targeted for MAESTRIA<br>
 
 ## Objectives
 The MAESTRIA project aims to develop automatic methods for the analysis of the large amount of available heterogeneous EO satellite images. It therefore exhibits two main strategic objectives:
