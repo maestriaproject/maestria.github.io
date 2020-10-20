@@ -2,9 +2,9 @@
 layout: post
 title: Project Description
 date: 2020-10-13 13:32:20 +0300
-description: Main objectives and Workpackages. # Add post description (optional)
+description: Main objectives and Workpackages.
 img: strategie.jpg # Add image post (optional)
-fig-caption: How to turn EO images to land-cover maps# Add figcaption (optional)
+fig-caption: How to turn EO images to land-cover maps
 tags: [Description, Objectives, WP]
 ---
 The MAESTRIA project (Multi-modAl Earth obServaTion Image Analysis) aims to solve the methodological challenges related to the fully automatic analysis of the massive amount of images acquired by Earth Observation (EO) platforms.
