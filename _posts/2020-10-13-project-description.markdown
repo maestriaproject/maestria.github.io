@@ -39,7 +39,7 @@ The MAESTRIA project aims to develop automatic methods for the analysis of the l
 * <b>In an application-driven flavour </b>, it targets to extend the framework to a variety of innovating services (land-use mapping, derivation of coarse-scale products, consistent with existing continental and global datasets). Each of them is related to fundamental methodological issues and linked to requirements of various end-users at local, regional, and national scales. It will offer a full processing chain with high flexibility and high impact for the adoption of remote
 sensing data and LC maps.
 
-![Architecture of the project]({{site.baseurl}}/assets/img/wp.jpg){:height="85%" width="85%" textalign="center"}<br><br>
+![Architecture of the project]({{site.baseurl}}/assets/img/wp.png){:height="85%" width="85%" textalign="center"}<br><br>
 
 
 
