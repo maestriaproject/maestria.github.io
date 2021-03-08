@@ -14,7 +14,7 @@ Here we provide the list of documents prepared during the project (scientific pa
 
 <ul>
   <li> Baudoux, L., Inglada, J. and Mallet, C.: <i>Toward a yearly country-scale CORINE Land-Cover map without using images: a map translation approach</i>. Remote Sensing, 2021. </li>
-  <li> David, N., Giordano, S. and Mallet, C.: <i>Investigating operational country-level crop monitoring with Sentinel~1 and~2 imagery</i>. Submitted, 2021. </li>
+  <li> David, N., Giordano, S. and Mallet, C.: <i>Investigating operational country-level crop monitoring with Sentinel 1 and 2 imagery</i>. Submitted, 2021. </li>
   <li> Giry-Fouquet, E., Fauvel, M. and Mallet, C.: <i>Fast estimation for robust supervised classification with mixture models</i>. Under preparation, 2021. </li>
   </ul>
 
@@ -27,7 +27,7 @@ Here we provide the list of documents prepared during the project (scientific pa
 ## Reports
 
 <ul>
-  <li> <i>No report so far</i>.</li>
+  <li> <i><a href="https://github.com/maestriaproject/documents/blob/main/MAESTRIA_rapport_avancement_novembre2020.pdf" target="_blank">Compte-rendu intermédiaire</a></i>, novembre 2020.</li>
   </ul>
 
 ## Talks
