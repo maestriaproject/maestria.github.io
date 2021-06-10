@@ -2,7 +2,7 @@ title: MAESTRIA project (ANR 2018-2022)
 description: # > this means to ignore newlines until "baseurl:"
   We target to develop state-of-the-art methods for the multi-modal analysis of the large amount of Earth Observation images. Of course, source codes and images will be made freely available.
 permalink: '/title/'
-baseurl: "/maestriaproject.github.io" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://maestriaproject.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
